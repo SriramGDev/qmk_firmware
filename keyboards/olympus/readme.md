@@ -1,0 +1,16 @@
+Olympus
+===
+
+![Olympus](https://i.imgur.com/66XJPDo.jpg)
+
+A 60 percent with a left cluster. Isolation gasket mount, USB-C. Designed by [Kilgarah](https://www.reddit.com/user/Kilgarah/).
+
+Keyboard Maintainer: [Sriram Gopalakrishnan](https://github.com/SriramGDev)  
+Hardware Supported: Olympus PCB rev 1
+Hardware Availability: N/A
+
+Make example for this keyboard (after setting up your build environment):
+
+    make olympus/default
+
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
